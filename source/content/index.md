@@ -7,3 +7,7 @@ title: Arma 3 Missionmaking Writing Samples by ItsGiantCookie!
 ### Hier schonmal ein paar Beispiele:
 [[OP Jorgmungand]]\
 [[TF Hephaestus]]
+
+## Work in Progress Area:
+
+[[Pacific Operation]]
