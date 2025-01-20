@@ -1,7 +1,0 @@
-#Faction
-
-**SIDE:**
-
-**RELATION:**
-
-**KOMMENTARE:**
