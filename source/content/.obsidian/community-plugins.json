@@ -1,3 +1,11 @@
 [
-  "obsidian-git"
+  "obsidian-tasks-plugin",
+  "quickadd",
+  "templater-obsidian",
+  "obsidian-mindmap-nextgen",
+  "card-board",
+  "obsidian-pandoc",
+  "multi-column-markdown",
+  "mermaid-tools",
+  "3d-graph-new"
 ]

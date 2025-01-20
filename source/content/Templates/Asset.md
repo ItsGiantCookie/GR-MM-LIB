@@ -1,0 +1,10 @@
+#Asset
+
+**Fraktion:** 
+
+**Rolle:**
+
+**KOMMENTARE:**
+
+
+

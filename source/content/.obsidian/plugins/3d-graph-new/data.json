@@ -1,0 +1,132 @@
+{
+  "savedSettings": [
+    {
+      "id": "c6a4293a-9f4b-444f-accc-a09f31bf715a",
+      "title": "FRF",
+      "setting": {
+        "filter": {
+          "searchQuery": "",
+          "showOrphans": false,
+          "showAttachments": false
+        },
+        "groups": [
+          {
+            "query": "tag:#Operation  ",
+            "color": "#66e56c"
+          },
+          {
+            "query": "tag:#Place  ",
+            "color": "#f0ee2d"
+          },
+          {
+            "query": "tag:#Asset  ",
+            "color": "#112e09"
+          },
+          {
+            "query": "tag:#Faction  ",
+            "color": "#9f484d"
+          },
+          {
+            "query": "tag:#Unit  ",
+            "color": "#4f10e0"
+          }
+        ],
+        "display": {
+          "nodeSize": 2,
+          "linkThickness": 1.5,
+          "linkDistance": 30,
+          "nodeRepulsion": 2800,
+          "distanceFromFocal": 200,
+          "nodeHoverColor": "#ff0000",
+          "nodeHoverNeighbourColor": "#00ff00",
+          "linkHoverColor": "#0000ff",
+          "showExtension": false,
+          "showFullPath": false,
+          "showCenterCoordinates": false,
+          "showLinkArrow": true,
+          "dontMoveWhenDrag": false,
+          "dagOrientation": "null"
+        }
+      },
+      "type": "global"
+    }
+  ],
+  "temporaryLocalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": true,
+      "showAttachments": false,
+      "depth": 1,
+      "linkType": "both"
+    },
+    "groups": [],
+    "display": {
+      "nodeSize": 3,
+      "linkThickness": 2,
+      "linkDistance": 100,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 300,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": true,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "temporaryGlobalGraphSetting": {
+    "filter": {
+      "searchQuery": "",
+      "showOrphans": false,
+      "showAttachments": false
+    },
+    "groups": [
+      {
+        "query": "tag:#Operation  ",
+        "color": "#66e56c"
+      },
+      {
+        "query": "tag:#Place  ",
+        "color": "#f0ee2d"
+      },
+      {
+        "query": "tag:#Asset  ",
+        "color": "#112e09"
+      },
+      {
+        "query": "tag:#Faction  ",
+        "color": "#9f484d"
+      },
+      {
+        "query": "tag:#Unit  ",
+        "color": "#4f10e0"
+      }
+    ],
+    "display": {
+      "nodeSize": 2,
+      "linkThickness": 1.5,
+      "linkDistance": 30,
+      "nodeRepulsion": 2800,
+      "distanceFromFocal": 200,
+      "nodeHoverColor": "#ff0000",
+      "nodeHoverNeighbourColor": "#00ff00",
+      "linkHoverColor": "#0000ff",
+      "showExtension": false,
+      "showFullPath": false,
+      "showCenterCoordinates": false,
+      "showLinkArrow": true,
+      "dontMoveWhenDrag": false,
+      "dagOrientation": "null"
+    }
+  },
+  "pluginSetting": {
+    "maxNodeNumber": 1000,
+    "searchEngine": "default",
+    "rightClickToPan": false,
+    "commandLeftClickNode": "openNodeInNewTab",
+    "commandRightClickNode": "focusNode"
+  }
+}

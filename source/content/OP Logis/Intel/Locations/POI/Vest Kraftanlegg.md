@@ -1,0 +1,7 @@
+#Place
+
+**NAME:**
+
+**KOORDINATE:**
+
+**KOMMENTARE:**

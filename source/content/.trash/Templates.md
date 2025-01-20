@@ -1,0 +1,8 @@
+[[Ort]]
+[[Mod]]
+[[Fraktion]]
+[[Einsatzbefehl]]
+[[Einsatzbefehl Unterauftrag]]
+[[Einsatzbefehl Intel]]
+[[Character]]
+[[Templates]]

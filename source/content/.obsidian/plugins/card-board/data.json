@@ -1,0 +1,94 @@
+{
+  "version": "0.13.0",
+  "data": {
+    "boardConfigs": [
+      {
+        "columns": [
+          {
+            "tag": "untagged",
+            "data": {
+              "collapsed": false,
+              "name": "Untagged"
+            }
+          },
+          {
+            "tag": "otherTags",
+            "data": {
+              "collapsed": false,
+              "name": "Other Tags"
+            }
+          },
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 2,
+              "limit": 10,
+              "name": "Completed"
+            }
+          }
+        ],
+        "filters": [],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "Overview",
+        "showColumnTags": true,
+        "showFilteredTags": true
+      },
+      {
+        "columns": [
+          {
+            "tag": "completed",
+            "data": {
+              "collapsed": false,
+              "index": 0,
+              "limit": 10,
+              "name": "OP Anvil Completed Tasks"
+            }
+          },
+          {
+            "tag": "namedTag",
+            "data": {
+              "collapsed": false,
+              "name": "OP Anvil Open Tasks",
+              "tag": "task"
+            }
+          }
+        ],
+        "filters": [
+          {
+            "tag": "pathFilter",
+            "data": "TF Hephaestus/OP Anvil"
+          }
+        ],
+        "filterPolarity": "Allow",
+        "filterScope": "Both",
+        "name": "OP Anvil",
+        "showColumnTags": false,
+        "showFilteredTags": true
+      }
+    ],
+    "globalSettings": {
+      "defaultColumnNames": {
+        "today": "",
+        "tomorrow": "",
+        "future": "",
+        "undated": "",
+        "otherTags": "",
+        "untagged": "",
+        "completed": ""
+      },
+      "filters": [
+        {
+          "tag": "pathFilter",
+          "data": "Templates"
+        }
+      ],
+      "firstDayOfWeek": "FromLocale",
+      "ignoreFileNameDates": false,
+      "taskCompletionFormat": "ObsidianCardBoard",
+      "taskCompletionInLocalTime": true,
+      "taskCompletionShowUtcOffset": true
+    }
+  }
+}

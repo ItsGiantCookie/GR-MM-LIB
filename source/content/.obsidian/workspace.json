@@ -1,62 +1,151 @@
 {
   "main": {
-    "id": "2e9225e34664efd4",
+    "id": "45e3f5cd804b2d21",
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "ff0ded5e30b27f15",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "c2c636a916ee0362",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "3d-graph-view-global",
+              "state": {},
+              "icon": "orbit",
+              "title": "Global 3D Graph"
             }
           },
           {
-            "id": "2d8837e6263008e3",
+            "id": "16d4b16e49d3af67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "category-folder/Some note.md",
+                "file": "OP Logis/Intel/Factions/FRF/Swedish Armed Forces/Swedish Armed Forces.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Swedish Armed Forces"
+            }
+          },
+          {
+            "id": "d33aaa6558fde04f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OP Logis/Intel/Factions/FRF/Swedish Armed Forces/Norrbotten Regiment/Norrbotten Regiment.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norrbotten Regiment"
+            }
+          },
+          {
+            "id": "05a60dfbfa24d114",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OP Logis/Intel/Factions/FRF/Swedish Armed Forces/Norrbotten Regiment/Norrbotten Armoured Battalion/Norrbotten Armoured Battalion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Norrbotten Armoured Battalion"
+            }
+          },
+          {
+            "id": "7ff5e15bca04f093",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OP Logis/Intel/Factions/FRF/DSK/German Rangers/German Rangers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "German Rangers"
+            }
+          },
+          {
+            "id": "312d5e8bb1ad05f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OP Logis/OP Twilight Zone/OP Twilight Zone.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OP Twilight Zone"
+            }
+          },
+          {
+            "id": "d0afaf7997ff3613",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "OP Logis/OP Twilight Zone/OP Twilight Zone.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "OP Twilight Zone"
+            }
+          },
+          {
+            "id": "8abdf9761d857d1d",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "OP Logis/OP Twilight Zone/Untitled.canvas",
+                "viewState": {
+                  "x": 92.77115927154333,
+                  "y": 2381.8114012588117,
+                  "zoom": -1
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "1243752a4df710bb",
+    "id": "309a8dbc42e7f369",
     "type": "split",
     "children": [
       {
-        "id": "8a4c81639dc8783e",
+        "id": "6624d61eae9c098e",
         "type": "tabs",
         "children": [
           {
-            "id": "b77831b90dd9f87b",
+            "id": "3b5b31ca8965bb59",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
-            "id": "0829eb50dbb8a2b3",
+            "id": "9cf21578fff27d78",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -67,15 +156,29 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
-            "id": "436d75c49c949463",
+            "id": "c31193700d266804",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "79b44776dbc0191b",
+            "type": "leaf",
+            "state": {
+              "type": "mk-path-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
@@ -85,20 +188,19 @@
     "width": 300
   },
   "right": {
-    "id": "ba1ec06a672fb227",
+    "id": "85840c8e0fbb7a96",
     "type": "split",
     "children": [
       {
-        "id": "6cea78168fbf9ccd",
+        "id": "e3f88c1e432e9a99",
         "type": "tabs",
         "children": [
           {
-            "id": "2aa5a4c073617928",
+            "id": "b58b57dd6d186bdd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,43 +208,49 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
             }
           },
           {
-            "id": "5acb7020384970a8",
+            "id": "34f967af8dafb8da",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
             }
           },
           {
-            "id": "f850ba7e9e699bea",
+            "id": "fbf63e65660c9e48",
             "type": "leaf",
             "state": {
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
-            "id": "2d9129bb8dcf7983",
+            "id": "19a5234dae9410b1",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "category-folder/Some note.md"
-              }
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -151,20 +259,71 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "publish:Publish changes...": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "3d-graph-new:Global 3D Graph": false,
+      "card-board:CardBoard": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "8abdf9761d857d1d",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
-    "category-folder"
+    "OP Logis/OP Twilight Zone/OP Twilight Zone.md",
+    "OP Logis/OP Twilight Zone/Untitled.canvas",
+    "OP Logis/Fjordholm Response Forces (FRF).md",
+    "OP Logis/OP Twilight Zone/LZ Blackjack.md",
+    "OP Logis/Intel/Locations/POI/Bergsassen Militaere Flyplass.md",
+    "OP Logis/Intel/Locations/POI/Berg Militaere Flypass.md",
+    "OP Logis/Intel/Locations/POI/Vest Kraftanlegg.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Lima.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/German Rangers.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie",
+    "OP Logis/Intel/Factions/FRF/DSK/DSK.md",
+    "OP Logis/Intel/Factions/FRF/DSK",
+    "OP Logis/Intel/Factions/FRF/USN TF-50/USN TF-50.md",
+    "OP Logis/Intel/Factions/FRF/Swedish Armed Forces/Norrbotten Regiment/Norrbotten Armoured Battalion/Norrbotten Armoured Battalion.md",
+    "OP Logis/Intel/Factions/FRF/SNMG-1/SNMG-1.md",
+    "OP Logis/Intel/Factions/FRF/Fjordholm Response Forces.md",
+    "OP Logis/Intel/Factions/FRF/Swedish Armed Forces/Norrbotten Regiment/Norrbotten Armoured Battalion",
+    "OP Logis/Intel/Factions/FRF/Swedish Armed Forces/Norrbotten Regiment/Norrbotten Regiment.md",
+    "OP Logis/Intel/Factions/FRF/Swedish Armed Forces/Swedish Armed Forces.md",
+    "OP Logis/Intel/Factions/FRF/Swedish Armed Forces/Norrbotten Regiment",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Sierra.md",
+    "OP Logis/Intel/Factions/FRF/SNMG-1/FGS Bonn.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Victor/X-Ray.md",
+    "OP Logis/Intel/Factions/FRF/Swedish Armed Forces",
+    "OP Logis/Intel/Factions/FRF/USN TF-50",
+    "OP Logis/Intel/Factions/FRF/SNMG-1",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Victor/Yankee.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Victor/Zulu.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Victor/Victor.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Foxtrott/Charlie.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Victor",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Foxtrott/Bravo.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Foxtrott/Alpha.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Foxtrott/Foxtrott.md",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers/Kompanie/Foxtrott",
+    "OP Logis/Intel/Factions/FRF/DSK/German Rangers",
+    "Campaing/Intro OP/Intro OP.canvas",
+    "Campaing/Campaing Flow.canvas",
+    "Campaing/Intro OP/Outcomes Intro OP.canvas",
+    "gerrng_logo.png",
+    "TF Hephaestus (Indef Postpone)/TF Hephaestus Flow.canvas",
+    "TF Hephaestus (Indef Postpone)/OP Anvil/Intel/ORBAT RUS.png",
+    "TF Hephaestus (Indef Postpone)/Characters/Sokolov Intel 2.jpg",
+    "TF Hephaestus (Indef Postpone)/Characters/Sokolov Intel 1.jpg",
+    "TF Hephaestus (Indef Postpone)/OP Anvil/Planning/Plan ARES.jpg",
+    "TF Hephaestus (Indef Postpone)/OP Anvil/Planning/Plan Demeter_HADES.jpg",
+    "TF Hephaestus (Indef Postpone)/OP Anvil/Planning/Route 1.jpg",
+    "TF Hephaestus (Indef Postpone)/OP Anvil/Planning/Route 2.jpg",
+    "TF Hephaestus (Indef Postpone)/OP Anvil/Planning/Route 3.jpg",
+    "Templates/Untitled.canvas",
+    "Untitled 1.canvas"
   ]
 }
