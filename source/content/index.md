@@ -1,9 +1,7 @@
 ---
-title: My GitHub Pages Notebook!
+title: Arma 3 Missionmaking: Writing Samples by ItsGiantCookie!
 ---
 
-Hello world!
-
-Write some words here!
-
-:3
+Hier sind ein paar Beispiele:
+- [[TF Hephaestus]]
+- [[OP Jorgmungand]]
