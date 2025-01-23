@@ -2,6 +2,7 @@
 title: Fish Camo Faces Extension - CamoFaces
 tags:
   - Mod
+  - Mechanic
 ---
 **ZWECK:** 
 

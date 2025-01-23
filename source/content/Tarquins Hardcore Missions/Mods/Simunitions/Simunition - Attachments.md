@@ -2,6 +2,8 @@
 title: Simunition - Attachments
 tags:
   - Mod
+  - Weapons
+  - Equipment
 ---
 **ZWECK:** 
 

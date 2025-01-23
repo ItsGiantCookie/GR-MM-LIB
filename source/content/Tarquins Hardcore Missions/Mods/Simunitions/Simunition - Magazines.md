@@ -2,6 +2,7 @@
 title: Simunition - Magazines
 tags:
   - Mod
+  - Weapons
 ---
 **ZWECK:** 
 

@@ -2,6 +2,7 @@
 title: MTK - Faster Pistol Swap
 tags:
   - Mod
+  - Animation
 ---
 **ZWECK:** 
 

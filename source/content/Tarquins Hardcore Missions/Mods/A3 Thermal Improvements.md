@@ -1,7 +1,9 @@
 ---
 title: A3 Thermal Improvement
+draft: false
 tags:
   - Mod
+  - Mechanic
 aliases:
   - A3TI
 ---

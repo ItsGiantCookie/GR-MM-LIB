@@ -2,6 +2,8 @@
 title: SPS - AI AXMC (ACE)
 tags:
   - Mod
+  - Weapons
+  - Mechanic
 ---
 **ZWECK:** 
 

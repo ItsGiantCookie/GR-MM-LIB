@@ -2,6 +2,7 @@
 title: Project BJC
 tags:
   - Mod
+  - Equipment
 ---
 **ZWECK:** 
 

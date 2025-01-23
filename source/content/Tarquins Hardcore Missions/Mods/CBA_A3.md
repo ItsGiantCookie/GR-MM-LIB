@@ -2,6 +2,7 @@
 title: CBA_A3
 tags:
   - Mod
+  - Basemod
 aliases:
   - CBA
 ---

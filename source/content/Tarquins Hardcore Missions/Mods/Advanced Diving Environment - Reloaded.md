@@ -1,7 +1,9 @@
 ---
 title: Advanced Diving Environment - Reloaded
+draft: false
 tags:
   - Mod
+  - Mechanic
 aliases:
   - ADE
 ---

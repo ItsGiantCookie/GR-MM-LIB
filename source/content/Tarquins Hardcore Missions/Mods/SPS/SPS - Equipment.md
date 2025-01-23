@@ -2,6 +2,7 @@
 title: SPS - Equipment
 tags:
   - Mod
+  - Equipment
 ---
 **ZWECK:** 
 

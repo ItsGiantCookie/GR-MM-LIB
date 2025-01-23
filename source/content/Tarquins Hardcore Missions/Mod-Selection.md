@@ -2,6 +2,7 @@
 title: Mod-Selection
 tags:
   - Mod
+description: Modvorschläge
 ---
 
 ## Base-Mods:

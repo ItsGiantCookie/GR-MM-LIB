@@ -2,6 +2,7 @@
 title: TSF - JPC
 tags:
   - Mod
+  - Equipment
 ---
 **ZWECK:** 
 

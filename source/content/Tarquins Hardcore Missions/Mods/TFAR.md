@@ -2,6 +2,8 @@
 title: TFAR
 tags:
   - Mod
+  - Equipment
+  - Mechanic
 ---
 **ZWECK:** 
 

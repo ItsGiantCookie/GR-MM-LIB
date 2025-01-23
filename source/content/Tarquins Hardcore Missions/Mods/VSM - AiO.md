@@ -2,6 +2,7 @@
 title: VSM - AiO
 tags:
   - Mod
+  - Equipment
 aliases:
   - VSM
 ---

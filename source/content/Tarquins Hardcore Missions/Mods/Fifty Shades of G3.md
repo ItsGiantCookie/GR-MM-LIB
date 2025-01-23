@@ -2,6 +2,7 @@
 title: Fifty Shades of G3
 tags:
   - Mod
+  - Equipment
 ---
 **ZWECK:** 
 

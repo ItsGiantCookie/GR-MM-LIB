@@ -1,7 +1,9 @@
 ---
 title: ACE Arsenal Extended
+draft: false
 tags:
   - Mod
+  - Mechanic
 aliases:
   - ACEX
 ---

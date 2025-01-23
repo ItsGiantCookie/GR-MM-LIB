@@ -2,6 +2,7 @@
 title: SPS - Weapons v2
 tags:
   - Mod
+  - Weapons
 ---
 **ZWECK:** 
 

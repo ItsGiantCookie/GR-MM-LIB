@@ -2,6 +2,7 @@
 title: Backpack on Chest - Redux
 tags:
   - Mod
+  - Mechanic
 aliases:
   - BOCR
 ---

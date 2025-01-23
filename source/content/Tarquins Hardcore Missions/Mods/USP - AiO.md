@@ -2,6 +2,7 @@
 title: USP - AiO
 tags:
   - Mod
+  - Equipment
 aliases:
   - USP
 ---

@@ -1,7 +1,11 @@
 ---
 title: TLB
+draft: false
 tags:
   - Mod
+  - Animation
+  - Mechanic
+description: TheSpeshalPlatoon Animations
 ---
 **ZWECK:** Animate Mods (Canting, High-/Low-Ready etc) ohne mekrwürdigee Laufanimation
 

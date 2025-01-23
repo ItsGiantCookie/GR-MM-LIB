@@ -2,6 +2,7 @@
 title: Military Tandem Tethered Bundle
 tags:
   - Mod
+  - Mechanic
 ---
 **ZWECK:** 
 

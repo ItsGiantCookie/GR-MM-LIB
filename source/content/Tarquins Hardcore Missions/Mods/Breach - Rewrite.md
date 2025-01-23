@@ -2,6 +2,8 @@
 title: Breach - Rewrite
 tags:
   - Mod
+  - Equipment
+  - Mechanic
 ---
 **ZWECK:** 
 

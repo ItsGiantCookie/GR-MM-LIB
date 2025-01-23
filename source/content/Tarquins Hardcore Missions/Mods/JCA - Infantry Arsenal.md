@@ -2,6 +2,7 @@
 title: JCA - Infantry Arsenal
 tags:
   - Mod
+  - Weapons
 ---
 **ZWECK:** 
 

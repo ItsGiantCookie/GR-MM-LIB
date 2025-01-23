@@ -2,6 +2,7 @@
 title: SPS - AI AXMC
 tags:
   - Mod
+  - Weapons
 ---
 **ZWECK:** 
 

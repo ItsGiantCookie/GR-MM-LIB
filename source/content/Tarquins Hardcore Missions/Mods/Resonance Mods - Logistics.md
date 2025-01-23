@@ -2,6 +2,7 @@
 title: Resonance Mods - Logistics
 tags:
   - Mod
+  - Mechanic
 ---
 **ZWECK:** 
 
