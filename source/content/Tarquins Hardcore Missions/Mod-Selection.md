@@ -27,7 +27,7 @@ description: Modvorschläge
 - [[Fish Camo Cream]] + [[Fish Camo Faces Extension - CamoFaces]]
 - [[Greenmag]]
 	- Compat Mods für CUP etc
-- [[Mods/TLB/]]
+- [[tlb/]]
 	- Beinhaltet:
 		- [[Animate - Rewrite]]
 		- [[Animate - Radio]]
@@ -37,7 +37,7 @@ description: Modvorschläge
 - [[Immersion Cigs]]
 - [[JCA - Infantry Arsenal]]
 	- [[ACEX]]-Compat?
-- [[Mods/KJW/]]
+- [[kjw/]]
 - [[Ladder Tweaks Remastered]]
 - [[Military Tandem Tethered Bundle]]
 - [[MTK - Faster Pistol Swap]]
@@ -51,8 +51,8 @@ description: Modvorschläge
 - [[USP - AiO]]
 	- [[ACE]]-Fix nötig (Kein Earpro, Boltcutter an Rucksack kann anstelle von Item genutzt werden)
 	- [[TFAR]]-Compat wenn nötig
-- [[Mods/Simunitions/]]
-- [[Mods/SPS/]]
-- [[Mods/TFS/]]
+- [[simunitions/]]
+- [[sps/]]
+- [[tfs/]]
 - [[WMO]]
 - [[NIArms v14]]
