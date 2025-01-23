@@ -16,7 +16,7 @@ description: Modvorschläge
 ## Content-Mods:
 
 - [[Advanced Diving Environment - Reloaded]]
-- [[Advanced Urban Rappeling (Lois ACE Fix)]]
+- [[Advanced Urban Rappeling (Louis ACE Fix)]]
 - [[A3 Thermal Improvements]]
 - ([[Arsenal Time Limiter]])
 - [[Backpack on Chest - Redux]]
@@ -27,7 +27,7 @@ description: Modvorschläge
 - [[Fish Camo Cream]] + [[Fish Camo Faces Extension - CamoFaces]]
 - [[Greenmag]]
 	- Compat Mods für CUP etc
-- [[TLB/]]
+- [[Mods/TLB/]]
 	- Beinhaltet:
 		- [[Animate - Rewrite]]
 		- [[Animate - Radio]]
@@ -37,7 +37,7 @@ description: Modvorschläge
 - [[Immersion Cigs]]
 - [[JCA - Infantry Arsenal]]
 	- [[ACEX]]-Compat?
-- [[KJW/]]
+- [[Mods/KJW/]]
 - [[Ladder Tweaks Remastered]]
 - [[Military Tandem Tethered Bundle]]
 - [[MTK - Faster Pistol Swap]]
@@ -51,8 +51,8 @@ description: Modvorschläge
 - [[USP - AiO]]
 	- [[ACE]]-Fix nötig (Kein Earpro, Boltcutter an Rucksack kann anstelle von Item genutzt werden)
 	- [[TFAR]]-Compat wenn nötig
-- [[Simunitions/]]
-- [[SPS/]]
-- [[TFS/]]
+- [[Mods/Simunitions/]]
+- [[Mods/SPS/]]
+- [[Mods/TFS/]]
 - [[WMO]]
 - [[NIArms v14]]
